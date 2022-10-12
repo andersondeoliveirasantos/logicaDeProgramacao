@@ -1,0 +1,44 @@
+https://rachacuca.com.br/jogos/pinguins-numa-fria/
+
+INICIAR O JOGO;
+
+
+Pegar um pinguim filhote e colocar no pequeno iceberg,
+
+Colocar o Pai do filhote no pequeno iceberg ( da mesma cor );
+
+Atravessar o rio;
+
+Deixar o Pai do pinguim filhote do outro lado do rio,
+
+Atravessar o rio com o pinguim filhote no pequeno iceberg;
+
+Pegar outro pinguim filhote e colocar no pequeno iceberg;
+
+Atravessar o rio;
+
+Deixar o filhote com o Pai da mesma cor;
+
+Atraverssar o rio com o pinguim filhote no pequeno iceberg;
+
+Pegar o Pai do pinguim filhote da mesma cor;
+
+Atravessar o rio;
+
+Deixar o Pai do pinguim filhote do outro lado,
+
+Atravessar o rio com o pinguim filhote no pequeno iceberg;
+
+Pegar o ultimo Pai do pinguim filhote da mesma cor;
+
+Atravessar o rio;
+
+Deixar primeiro o Pai do pinguim e depois o filhote.
+
+Parabéns você resolvel o problema.
+
+
+
+
+
+
